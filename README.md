@@ -1,6 +1,6 @@
 # custom-filter-panorama
 
-simple demo to view an equirectangle photo by corona SDK
+simple demo to view an equirectangular photo by corona SDK
 
 ```
 local kernel = require "kernel_filter_custom_panorama"
